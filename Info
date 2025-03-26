@@ -1,0 +1,2 @@
+This project showcases the power of CNNs in image classification. Future improvements can include hyperparameter tuning, using transfer learning with pre-trained models like ResNet or VGG16, and optimizing the model for real-world applications.
+
